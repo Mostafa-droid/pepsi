@@ -1,0 +1,139 @@
+{
+    "product"  :  [ 
+        {
+        "id"     : 1, 
+        "title"  : "pepsi",
+        "srcImg" : "pepsi.png",
+         "alt"   : "pepsi",
+         "bgColor"  :"rgb(10 88 202 / 89%)",
+         "Calories" : "150",
+         "Sodium "  : "1%",
+         "Carbohydrate" :"11%",
+         "Sugars"  : "41g",
+          "Protein " :"0g"
+         
+
+        },
+        {
+        "id"     : 2, 
+        "title"  : "pepsi-zeroSuger",
+        "srcImg" : "pepsi-zeroSuger.png",
+        "alt"    : "pepsi-zeroSuger",
+        "bgColor":"rgb(0 0 0 / 89%)",
+        "Calories" : "0",
+        "Sodium "  : "4%",
+        "Carbohydrate"  :"14%",
+        "Sugars"  : "41g",
+         "Protein " :"0g"
+        },
+        {
+        "id"     : 3, 
+        "title"  : "diet-pepsi",
+        "srcImg" : "diet-pepsi.png",
+        "alt"   : "diet-pepsi",
+        "bgColor":"rgb(108 117 125 / 89%)",
+        "Calories" : "50",
+        "Sodium "  : "2%",
+        "Carbohydrate"  :"12%",
+        "Sugars "  : "40g",
+         "Protein " :"3g"
+        },
+        {
+        "id"     : 4, 
+        "title"  : "pepsi-mango",
+        "srcImg" : "pepsi-mango.png",
+         "alt"   : "pepsi-mango",
+         "bgColor":"rgb(255 152 0 / 89%)",
+         "Calories" : "150",
+         "Sodium "  : "3%",
+         "Carbohydrate"  :"13%",
+         "Sugars "  : "43g",
+          "Protein " :"3g"
+        },
+        {
+        "id"     : 5, 
+        "title"  : "pepsi-zeroSuger-mango",
+        "srcImg" : "pepsi-zeroSuger-mango.png",
+         "alt"   : "pepsi-zeroSuger-mango",
+         "bgColor":"rgb(255 152 0 / 89%)",
+         "Calories" : "60",
+         "Sodium "  : "15%",
+         "Carbohydrate"  :"15%",
+         "Sugars "  : "45g",
+          "Protein " :"5g"
+        },
+        {
+        "id"     : 6, 
+        "title"  : "pepsi-wild-cherry",
+        "srcImg" : "pepsi-wild-cherry.png",
+         "alt"   : "pepsi-wild-cherry",
+         "bgColor":"rgb(220 53 69 / 89%)",
+         "Calories" : "70",
+         "Sodium "  : "6%",
+         "Carbohydrate"  :"16%",
+         "Sugars "  : "46g",
+          "Protein " :"6g"
+        },
+        {
+        "id"     : 7, 
+        "title"  : "diet-pepsi-wild-cherry",
+        "srcImg" : "diet-pepsi-wild-cherry.png",
+         "alt"   : "diet-pepsi-wild-cherry",
+         "bgColor":"rgb(214 51 132 / 89%)",
+         "Calories" : "80",
+         "Sodium "  : "8%",
+         "Carbohydrate"  :"18%",
+         "Sugars "  : "48g",
+          "Protein " :"8g"
+        },
+        {
+        "id"     : 8, 
+        "title"  : "pepsi-zeroSuger-wild-cherry",
+        "srcImg" : "pepsi-zeroSuger-wild-cherry.png",
+         "alt"   : "pepsi-zeroSuger-wild-cherry",
+         "bgColor":"rgb(255 6 30 / 89%)",
+         "Calories" : "100",
+         "Sodium "  : "9%",
+         "Carbohydrate" :"10%",
+         "Sugars "  : "48g",
+          "Protein " :"8g"
+        },
+        {
+        "id"     : 9, 
+        "title"  : "pepsi-realSuger",
+        "srcImg" : "pepsi-realSuger.png",
+         "alt"   : "pepsi-realSuger",
+         "bgColor":"rgb(10 88 202 / 89%)",
+         "Calories" : "90",
+         "Sodium "  : "3%",
+         "Carbohydrate" :"8%",
+         "Sugars "  : "39g",
+          "Protein " :"7g"
+        },
+        {
+        "id"     : 10, 
+        "title"  : "pepsi-caffine-free",
+        "srcImg" : "pepsi-caffine-free.png",
+         "alt"   : "pepsi-caffine-free",
+         "bgColor":"rgb(244 216 106 / 89%)",
+         "Calories" : "150",
+         "Sodium "  : "1%",
+         "Carbohydrate"  :"14%",
+         "Sugars "  : "41g",
+          "Protein " :"0g"
+        },
+        {
+        "id"     : 11, 
+        "title"  : "diet-pepsi-caffeine-free",
+        "srcImg" : "diet-pepsi-caffeine-free.png",
+         "alt"   : "diet-pepsi-caffeine-free",
+         "bgColor":"rgb(173 181 189 / 89%)",
+         "Calories" : "150",
+         "Sodium "  : "1%",
+         "Carbohydrate"  :"14%",
+         "Sugars "  : "41g",
+          "Protein " :"0g"
+        }
+    ]
+    
+}
