@@ -507,6 +507,13 @@ img {
         width: 65%;
         left: 0;
         z-index: 3;
+        @media (min-width: 300px) and (max-width: 400px) {
+        height: 31%;
+        }
+        @media (min-width: 401px) and (max-width: 475px) {
+        height: 34%;
+        width: 59%;
+        }
       }
       &:nth-of-type(7) {
         height: 90%;
@@ -514,6 +521,12 @@ img {
         right: 0px;
         bottom: 0;
         z-index: 5;
+        @media (min-width: 300px) and (max-width: 400px) {
+        height: 86%;
+        }
+        @media (min-width: 401px) and (max-width: 475px) {
+        height: 99%;
+        }
       }
       &:nth-of-type(8) {
         z-index: 5;

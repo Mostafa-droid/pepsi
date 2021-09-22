@@ -42,7 +42,7 @@ export default {
   computed:{
     // this is Array that contain db.json [Api]
     productArr(){
-      return this.$store.state.productArr;
+      return this.$store.state.productArr.product;
     },
     count(){
       return this.$store.state.count;
